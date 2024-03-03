@@ -1,0 +1,40 @@
+h1 {
+	text-align: center;
+	border: 2px dotted red;
+	text-decoration: none;
+	margin: 50px 500px;
+	padding: 1ex;
+}
+
+p {
+	text-align: center;
+	font-size: 24px;
+}
+
+#centered {
+	text-align: center;
+}
+
+#b {
+	color: cyan;
+}
+
+#u {
+	color: white;
+}
+
+#r {
+	color: white;
+}
+
+#ç {
+	color: white;
+}
+
+#a {
+	color: white;
+}
+
+#k {
+	color: white;
+}
