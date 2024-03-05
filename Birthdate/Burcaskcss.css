@@ -11,12 +11,17 @@ p {
 	font-size: 24px;
 }
 
+img {
+	height: 50vh;
+	width: 25vw;
+}
+
 #centered {
 	text-align: center;
 }
 
 #b {
-	color: cyan;
+	color: white;
 }
 
 #u {
@@ -27,7 +32,7 @@ p {
 	color: white;
 }
 
-#ç {
+#c {
 	color: white;
 }
 
