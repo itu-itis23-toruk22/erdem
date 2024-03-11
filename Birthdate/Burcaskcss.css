@@ -1,9 +1,16 @@
+body{	
+	background-color: rgb(0, 128, 85);
+}
+
 h1 {
 	text-align: center;
 	border: 2px dotted red;
 	text-decoration: none;
 	margin: 50px 500px;
 	padding: 1ex;
+	background-image: url('photos/b.jpg');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
 }
 
 p {
@@ -11,9 +18,24 @@ p {
 	font-size: 24px;
 }
 
+
+
+button{
+	height: 40px;
+	width: 250px;
+	margin: 10px;
+	background-image: url('photos/a.jpg');
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
 img {
 	height: 50vh;
 	width: 25vw;
+}
+
+#btnyanı {
+	color: rgb(204,153,255)
 }
 
 #centered {
@@ -21,25 +43,25 @@ img {
 }
 
 #b {
-	color: white;
+	color: rgb(0, 128, 85);
 }
 
 #u {
-	color: white;
+	color: rgb(0, 128, 85);
 }
 
 #r {
-	color: white;
+	color: rgb(0, 128, 85);
 }
 
 #c {
-	color: white;
+	color: rgb(0, 128, 85);
 }
 
 #a {
-	color: white;
+	color: rgb(0, 128, 85);
 }
 
 #k {
-	color: white;
+	color: rgb(0, 128, 85);
 }
